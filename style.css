@@ -1,4 +1,15 @@
 /* container */
+.content {
+    width: 100vw;
+    height: 100px;
+    background-color: blueviolet;
+  }
+  
+  .inner {
+    padding-top: 30px;
+    display: flex;
+    justify-content: space-evenly;
+  }
 .wrapper{
     width:100%;
 }

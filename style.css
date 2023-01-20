@@ -1,9 +1,8 @@
 /* container */
-.content {
+ .content {
     width: 100vw;
     height: 100px;
-    background-color: blueviolet;
-  }
+  } 
   .picture{
     width: 300px;
     height: 300px;
@@ -61,7 +60,7 @@
 /* container */
 .wrapper{
     width:100%;
-    background-image:url(img/84abd341ebd3c025091722b4b7c5caac.jpg);
+    background-image:url(img/20180925_moriokare-men_04.jpg);
     background-repeat:no-repeat;
     background-size:cover;
     background-position: center center;
@@ -285,9 +284,9 @@ ul {
     left: 0;/*メニューを画面内へ*/
 }
 
-body { 
+/* body { 
     background: linear-gradient(blue, skyblue, white); 
-  }
+  } */
 
 
 

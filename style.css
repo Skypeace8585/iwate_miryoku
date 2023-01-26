@@ -1,4 +1,7 @@
 /* container */
+.top{
+    text-align: center;
+}
  .content1 {
     /* width: 100vw; */
     height: 100px;
